@@ -1,0 +1,6 @@
+[submodule "todolist"]
+	path = todolist
+	url = https://github.com/Rishabh7068/Todo-List.git
+[submodule "weather"]
+	path = weather
+	url = https://github.com/Rishabh7068/Todo-List.git
